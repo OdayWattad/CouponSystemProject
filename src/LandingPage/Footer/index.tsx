@@ -107,7 +107,7 @@ const Footer = () => {
           >
             <FooterContainer>
               <SocialLink
-                href="https://github.com/Adrinlol/create-react-app-adrinlol"
+                href="https://github.com/OdayWattad/CouponSystemProject"
                 src="github.svg"
               />
               <SocialLink
