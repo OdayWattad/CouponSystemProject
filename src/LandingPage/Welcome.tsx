@@ -46,7 +46,7 @@ const Welcome = () => {
         <ContentBlock
           type="up"
           title={"Oday Wattad"}
-          content={"Assistant manager of Nadir with 2+experience in the field of logistics. Highly organized, self-motivated, and proficient with computers. Finished A full-stack java course in John Bryce and created a coupon  system project with a colleague. I also volunteered in developing an assisting app for sorting the stocks in the factory."}
+          content={"2+experience in the field of logistics. Highly organized, self-motivated, and proficient with computers. Finished A full-stack java course in John Bryce and created a coupon system project with a colleague. developing an assisting app for sorting the stocks."}
           button={"Download cv"}
           icon="oday.png"
           id="resume2"
